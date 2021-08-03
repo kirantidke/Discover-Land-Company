@@ -1,0 +1,362 @@
+body,
+html {
+    margin: 0;
+    height: 100%;
+    background-size: 100%;
+    width: 100%;
+    height: 400px;
+    border: 0px;
+}
+
+.firstSection {
+    color: #ffffff;
+}
+.firstSection-1 {
+    padding-left: 5%;
+    padding-right: 10%;
+}
+
+/***** header *****/
+
+.header {
+    padding: 0;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    padding-right: 5%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration:none;
+}
+.logo-img {
+    width: 60px;
+    height: 40px;
+    padding: 0 5px 0 10px;
+}
+.title-top {
+    font-size: 27px;
+    font-family: 'PT Serif', serif;
+    color: white;
+    text-decoration:none;
+}
+.title-bottom {
+    font-size: 8px;
+    letter-spacing: 3px;
+    color: white;
+    line-height: 0px;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+}
+
+/***** navigation bar  *****/
+
+.navbar {
+    padding-left: 20%;
+    padding-top: 3%;
+}
+.list {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 15px;
+    font-family: 'PT Serif',serif;
+}
+.list-1 {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 15px;
+    font-family: 'PT Serif',serif;
+}
+.item-list-1 {
+    text-decoration:none;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+ 
+}
+.item-list {
+    text-decoration:none;
+    color: #ffffff;
+    font-family:Arial, Helvetica, sans-serif;
+ 
+}
+.item {
+    padding: 0 1.5rem;
+}
+.item-list:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+
+/***** footer  *****/
+
+.lastSec-right {
+    color: white; 
+    padding: 0;
+    text-decoration: none;
+    display: block;
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+
+}
+.lastSec-right:hover {
+    border-bottom-style: solid ;
+    border-bottom-width: 1px;
+    width: fit-content;
+    padding-bottom: 2px;
+}
+.footer {
+    line-height: 30px;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #161f1e;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    padding-top: 120px;
+    padding-bottom: 100px;
+    padding-left: 0%;
+}
+.lastSection{
+    padding-left: 50%;
+}
+.lastSection-list:hover{
+    padding-left: 50%;
+    text-decoration:underline;
+}
+.lastSection-list {
+    list-style-type: none;
+}
+
+.details {
+    font-size: 13px;
+    font-family: unset;
+    list-style-type: none;
+}
+.get-in{
+    color: rgb(165, 159, 159);
+    font-size: 12px;
+}
+.lastSec-centre{
+    list-style-type: none;
+    font-size: 13px;
+    font-weight:600;
+    
+}
+.lastSec-centre:hover{
+    text-decoration:underline;
+}
+.menu-list:hover{
+    text-decoration:underline;
+}
+.menu-list{
+    list-style-type: none;
+    font-size: 13px;
+    font-weight:600;
+}
+.copyright{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+/** front page **/
+.main-heading {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 100%;
+    padding: 170px;
+}
+.main-title {
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 84px;
+    margin: 0;
+    padding: 0;
+    text-transform: unset;
+}
+.sub-heading{
+    font-size: 57px;
+    letter-spacing: 20px;
+    font-family:unset;
+    padding-top: 0;
+    margin-top: 0;
+    color:white;
+} 
+.bckgrnd-video {
+    min-width: 100%;
+    min-height: 100%;;
+    position: absolute;
+    overflow: hidden;
+    z-index: -10;
+    margin-bottom: 100%;
+}
+.video{
+    height: 200%;
+}
+/*****************/
+.section-2 {
+    margin-right:0%;
+    margin-top: 10%;
+    height: 200%;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    margin-left: 0%;
+    justify-content: space-around;
+
+}
+.section-content{
+    justify-content: left;
+    text-align:left;
+}
+.bck-img{
+    background-image: url(../assets/home_page/background-img1.jpg);
+    background-size: 100%;
+    justify-content: left;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+}
+
+.second-image {
+    padding-right: 50px;
+    width: 40%;
+
+}
+
+.content-1 {
+    padding: 40px;
+    padding-bottom: 0;
+}
+.second-image {
+    padding-right: 500px;
+}
+
+.s2-img2 {
+    width: 500px;
+    height: 600px;
+    padding-top: 16px;
+    
+}
+
+.s2-img1 {
+    padding-top: 170px;
+    width: 500px;
+    height: 500px;
+    margin-right: 0%;
+    padding-right: 0%;
+    
+    
+}
+.s2-heading {
+    font-family: 'Bitter', serif;
+    font-weight: 100;
+    margin: 0;
+    padding: 0;
+    font-size: 50px;
+    line-height: 0.5;
+    letter-spacing: 2p3px;
+}
+
+.s2-tag {
+    letter-spacing: 1px;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 0;
+    margin-top: 0;
+    font-size: 50px;
+    color: rgb(29, 26, 26);
+    font-weight: 100;
+
+    
+}
+.s1-heading {
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: 100;
+    font-size: 84px;
+}
+
+.s1-tag {
+    font-size: 57px;
+    line-height: 100px;
+    padding-top: 50%;
+}
+.para {
+    font-family: serif;
+    color: #221e1e;
+    font-weight: 300;
+    letter-spacing: 0.5px;
+    font: size 50pxx;
+    box-sizing: border-box;
+    margin-top: 20%;
+}
+/******/
+/**section3*/
+.section-3 {
+    background-color: #ffffff;
+    /* height:100%; */
+    padding-top: 130px;
+     padding-bottom: 80px; 
+}
+
+.s3-details {
+    padding-bottom: 50px;
+    padding-left: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.s3-content {
+    display: flex;
+    flex-direction: column;
+}
+.s3-img {
+    padding: 0 10px;
+    width: 400px;
+    height: 500px;
+}
+.s3-heading{
+    font-family: 'Bitter', serif;
+    font-weight: 100;
+    margin: 0;
+    padding: 0;
+    font-size: 50px;
+    line-height: 0.5;
+    letter-spacing: 2p3px;
+    padding-left: 90%;
+    padding-top: 30%;
+}
+.s3-tag{
+    letter-spacing: 1px;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 0;
+    margin-top: 0;
+    font-size: 40px;
+    color: rgb(29, 26, 26);
+    font-weight: 100;
+    opacity: 1;
+}
+.bg-1{
+    background-image: url(../assets/earth.jpg);
+}
