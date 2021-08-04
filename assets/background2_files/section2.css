@@ -1,0 +1,40 @@
+.section2 {
+    background-image: url('https://dxaurk9yhilm4.cloudfront.net/images/287/background_imagev2_3580431e48aedf97dcedf972d1481942.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.text-image {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.image-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.text1 {
+    margin-top: 10rem;
+    font-size: calc(30.66667px + 1.06667vw);
+    font-family: gt-sectra;
+    font-style: normal;
+}
+
+.text2 {
+    font-size: calc(30.66667px + 1.06667vw);
+    font-family: gotham;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.paragraph {
+    line-height: 2;
+    font-size: .9rem;
+    font-family: messina-sans;
+}
