@@ -7,7 +7,7 @@ document.getElementById("header").innerHTML = `
         
  <ul class="nav-items" id ="nav-items" >
             <li class="nav-link">
-                <a href="../pages/aboutDLC.html">About DLC</a>
+                <a href="../pages/about.html">About DLC</a>
             </li>
             <li class="nav-link">
                 <a href="../pages/ourWorlds.html">Our Worlds</a>
