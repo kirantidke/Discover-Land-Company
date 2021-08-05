@@ -22,7 +22,7 @@
     font-weight: 200;
     font-style: normal;
 }
-
+/*
 .expsection-8 {
     margin-top: 10rem;
     background-image: url('../assets/experience/ourWorlds.jpg');
@@ -33,6 +33,7 @@
     align-items: center;
     opacity: 0.7;
 }
+*/
 
 .section-4 {
     width: 100%;
@@ -138,6 +139,7 @@
     width: 78%;
 }
 
+
 .top-content-1 {
     position: absolute;
     background-color: #fff;
@@ -227,7 +229,6 @@
     z-index: 0;
     overflow: hidden;
 }
-
 .sec-img {
     margin-top: 50px;
     opacity: 0.8;
@@ -261,7 +262,6 @@
     background-color: rgba(1, 1, 1, 0.281);
     height: 100%;
 }
-
 .explore1 {
     align-items: center;
     margin-bottom: 50rem;

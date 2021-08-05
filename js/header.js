@@ -16,7 +16,7 @@ document.getElementById("header").innerHTML = `
                 <a href="../pages/experiences.html">Experiences</a>
             </li>
             <li class="nav-link">
-                <a href="../pages/gallery.html">Gallery</a>
+                <a href="../pages/gallary.html">Gallery</a>
             </li>
             <li class="nav-link">
                 <a href="../pages/press.html">Press</a>
