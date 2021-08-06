@@ -13,7 +13,7 @@ document.getElementById("header").innerHTML = `
                 <a href="../pages/ourWorlds.html">Our Worlds</a>
             </li>
             <li class="nav-link">
-                <a href="../pages/experiences.html">Experiences</a>
+                <a href="../pages/experinces.html">Experiences</a>
             </li>
             <li class="nav-link">
                 <a href="../pages/galary.html">Gallery</a>
