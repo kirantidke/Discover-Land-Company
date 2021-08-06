@@ -16,7 +16,7 @@ document.getElementById("header").innerHTML = `
                 <a href="../pages/experiences.html">Experiences</a>
             </li>
             <li class="nav-link">
-                <a href="../pages/gallary.html">Gallery</a>
+                <a href="../pages/galary.html">Gallery</a>
             </li>
             <li class="nav-link">
                 <a href="../pages/press.html">Press</a>
@@ -31,7 +31,7 @@ document.getElementById("header").innerHTML = `
 
         <div id="menu" class="menu-content">
         <div class = "logo-btn">
-                   <a href="../pages/index1.html" class="logo-content">
+                   <a href="../pages/home.html" class="logo-content">
             <img src="../assets/logo.svg" alt="logo">
             </a>
             <div class="dropdown">
