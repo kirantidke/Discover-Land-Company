@@ -38,13 +38,18 @@
 .section-4 {
     width: 100%;
     background-color: #f3f3f3;
-    padding: 5% 0;
+    /*padding: 5% 0;*/
+    padding-left: 5%;
+    padding-right: 5%;
     overflow: hidden;
-    height: 420%;
+    height: 340%;
 }
 
 .s4-container {
-    padding: 5% 0;
+    padding-top: 10%;
+    /*padding: 5% 0;*/
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .bg-image-1 {
