@@ -1,3 +1,4 @@
+@media (min-width: 1230px){
 .magazine-section1 {
     background-image: url(../assets/magazine/water01.jpg);
     position: relative;
@@ -71,7 +72,7 @@
 .tag2 {
     padding: 10% 0;
 }
-
+}
 @media only screen and (max-width:1230px) {
     .vol-tag {
         font-size: 14px;
