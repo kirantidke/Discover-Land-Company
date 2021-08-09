@@ -1,0 +1,89 @@
+.foundation-section1 {
+    background-image: url(../assets/foundation/Discovery_FOUNDATION_02_2cbd80a0345be3b5a0b7649a1a2d057f.jpg);
+    position: relative;
+    background-size: cover;
+    width: 100%;
+    height: 110vh;
+    display: flex;
+}
+
+.section-2 {
+    margin-top: 100px;
+}
+/*
+.s3-image {
+    width: 100%;
+    height: 100%;
+}
+
+.section-3 {
+    display: flex;
+    flex-flow: row wrap;
+    margin-top: 100px;
+    margin-bottom: 10%;
+}
+
+.s3-head {
+    color: #000;
+    font-size: 40px;
+    font-weight: 200;
+}
+
+.s3-para {
+    font-family: 'Work Sans', sans-serif;
+    color: #1f1f1f;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    line-height: 2;
+}
+*/
+.s3-head {
+    color: #000;
+    font-size: 40px;
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+}
+.section-2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
+  
+.section-2paragraph {
+    margin-left: 10rem;
+    margin-right: 10rem;
+    text-align: center;
+    font-size: calc(21.33333px + 1.13333vw);
+    line-height: 1.4;
+    font-family: gt-sectra;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .section2text-image {
+    margin-right: 10rem;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10rem;
+  }
+  
+  .dad-daughter {
+    margin-top: 10rem;
+    margin-left: 10rem;
+  }
+  
+.content {
+    padding: 10%;
+}
+
+.explore-btn {
+    color: #3b3b3b;
+    background-color: #fff;
+    border: 1px solid #3b3b3b;
+    padding: 5% 20%;
+}
+
+.explore-btn:hover {
+    background-color: #e9e9e9b6;
+}
